@@ -1,0 +1,14 @@
+.project img {
+  -webkit-transition: all 350ms ease;
+  transition: all 350ms ease0;
+  cursor: pointer;
+  margin-bottom: 16px;
+}
+
+.project img :hover {
+  filter: opacity(0.8);
+}
+
+img {
+  width: 100%;
+}
